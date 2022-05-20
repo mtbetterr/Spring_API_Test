@@ -25,8 +25,6 @@ public class ClienteController {
 		cliente2.setTelefone("48 998449622");
 		cliente2.setEmail("magdasantos3078@gmail.com");
 		
-		//Adicionar mais "clientes" caso queira fazer uma lista maior
-		//Adicionar também mais "clientes" em return Arrays.asList(), caso queira que estes apareçam
 		
 		return Arrays.asList(cliente1, cliente2);
 	}

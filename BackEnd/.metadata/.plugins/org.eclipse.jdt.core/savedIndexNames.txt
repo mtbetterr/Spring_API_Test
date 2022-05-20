@@ -7,6 +7,7 @@ INDEX VERSION 1.131+/home/matheus/Área de Trabalho/GIT PROJECTS/Projeto Node/Ba
 3753230521.index
 2288676123.index
 1523100808.index
+3108300645.index
 2736892559.index
 4133074661.index
 2797231807.index
@@ -53,6 +54,7 @@ INDEX VERSION 1.131+/home/matheus/Área de Trabalho/GIT PROJECTS/Projeto Node/Ba
 1027849848.index
 3761317716.index
 3183604806.index
+953608022.index
 2430645372.index
 1035329273.index
 3809702459.index

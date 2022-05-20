@@ -5,8 +5,6 @@ import lombok.Setter;
 @Getter
 @Setter
 
- //se no seu código não aparecer as importações apenas com o @(import), tente escrever o import+link e deopis o @ 
-
 public class Cliente {
 	
 	private Long id;
