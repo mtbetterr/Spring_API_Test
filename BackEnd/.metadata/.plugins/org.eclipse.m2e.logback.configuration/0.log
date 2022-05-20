@@ -241,3 +241,4 @@
 2022-05-20 00:12:38,034 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-05-20 00:12:38,034 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-05-20 00:12:38,035 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/matheus/Área de Trabalho/GIT PROJECTS/Projeto Node/BackEnd/springAPIZero/src/test/resources
+2022-05-20 00:13:46,755 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mtbetterApiZero:springAPIZero:0.0.1-SNAPSHOT @ /home/matheus/Área de Trabalho/GIT PROJECTS/Projeto Node/BackEnd/springAPIZero/pom.xml.
