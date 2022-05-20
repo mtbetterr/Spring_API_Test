@@ -1,0 +1,11 @@
+package com.mtbetterApiZero.api.controller;
+
+
+
+
+public class ClienteController {
+	public String listar(){
+		return "Teste";
+	}
+	
+}

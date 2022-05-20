@@ -1,0 +1,11 @@
+package com.mtbetterApiZero.api.controller;
+
+
+@RestController
+public class ClienteController {
+	@GetMapping("/clientes")
+	public String listar(){
+		return "Teste";
+	}
+	
+}
