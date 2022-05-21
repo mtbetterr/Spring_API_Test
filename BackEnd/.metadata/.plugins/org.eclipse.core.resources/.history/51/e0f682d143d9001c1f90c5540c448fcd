@@ -1,0 +1,5 @@
+package com.mtbetterApiZero.domain.repository;
+
+public interface ClienteRepository {
+
+}

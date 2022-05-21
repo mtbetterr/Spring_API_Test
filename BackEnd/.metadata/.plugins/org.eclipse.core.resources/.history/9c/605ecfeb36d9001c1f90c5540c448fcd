@@ -1,0 +1,2 @@
+alter table cliente rename column email to correioel;
+

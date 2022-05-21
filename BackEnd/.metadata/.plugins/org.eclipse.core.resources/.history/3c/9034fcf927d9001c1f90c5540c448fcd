@@ -1,0 +1,3 @@
+spring.datasource.url=jdbc:mysql://localhost:33060/matheusbett?createDatabseIfNotExist=true&serverTimeZone=UTC
+
+
